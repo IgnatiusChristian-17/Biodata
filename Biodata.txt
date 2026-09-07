@@ -1,3 +1,4 @@
+
 Nama: Ignatius Christian Octavianus Situmorang
 Nim: 255314057
 Prodi: Informatika
@@ -5,3 +6,4 @@ Fakultas: Sains dan Teknologi
 Umur: 18
 Hobi: main game
 Asal Kota : lampung
+
