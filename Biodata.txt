@@ -3,4 +3,4 @@ Nim: 255314057
 Prodi: Informatika
 Fakultas: Sains dan Teknologi
 Umur: 18
-Hobi: --- 
+Hobi: main game
